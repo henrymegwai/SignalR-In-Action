@@ -1,1 +1,1 @@
-# ChatAppWithSignalR
+# SignalR in action
